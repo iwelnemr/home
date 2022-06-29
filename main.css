@@ -34,10 +34,7 @@ color: #fff;
 
 
 .caption {
-font-style: italic;
 font-family: 'Raleway', sans-serif;
-font-size: 30px;
-font-weight: 100;
 margin-left: 20px;
 margin-right: 30px;
 color: #fff;
@@ -49,7 +46,6 @@ margin-right: 40px;
 .big {
 width: 600px;
 height: 350px;
-font-size: 70px;
 }
 
 .very-big {
@@ -60,7 +56,7 @@ height: 450px;
 
 .title {
 font-family: 'Dancing Script', cursive;
-font-size: 50px;
+
 color: #fff;
 margin: 10px;
 
@@ -69,7 +65,6 @@ margin: 10px;
 .subtitle {
 font-family: 'Raleway', sans-serif;
 font-size: 30px;
-font-weight: 100;
 color: #fff;
 padding: 10px;
 }
@@ -77,8 +72,6 @@ padding: 10px;
 .subtitle-big {
 font-family: 'Raleway', sans-serif;
 font-size: 70px;
-font-weight: bold;
-font-weight: 100;
 color: #fff;
 padding: 10px;
 margin-left: 30px;
@@ -87,8 +80,6 @@ margin-right: 30px;
 
 .navbar-item {
 font-family: 'Raleway', sans-serif;
-font-size: 20px;
-font-weight: 100;
 color: #000;
 padding: 10px;
 margin: 10px;
@@ -105,7 +96,6 @@ transform: scale(1.10);
 .paragraph {
 font-family: 'Raleway', sans-serif;
 font-size: 30px;
-font-weight: 100;
 margin-left: 40px;
 margin-right: 40px;
 color: #fff;
@@ -124,8 +114,6 @@ font-size: 50px;
 .author-bio {
   width: 100vw;
   font-family: 'Raleway', sans-serif;
-  font-size: 20px;
-  font-weight: 100;
   color: #fff;
   margin-left: 30px;
   margin-right: 30px;
@@ -158,6 +146,7 @@ margin: 20px;
 }
 
 @media (min-width: 320px) and (max-width: 1200px) {
+
 .big {
 width: 100vw;
 margin-left: 50px;
